@@ -1,0 +1,1 @@
+alert("Bienvenue sur mon site.\nV2 en cours de développement.");
